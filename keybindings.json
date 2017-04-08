@@ -1,0 +1,21 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "ctrl+g ctrl+d",
+    "command": "workbench.action.tasks.runTask",
+    "args": "default"
+  },
+  {
+    "key": "ctrl+g ctrl+t",
+    "command": "workbench.action.tasks.runTask",
+    "args": "test"
+  },
+  {
+    "key": "ctrl+g",
+    "command": "workbench.action.gotoLine"
+  },
+  {
+    "key": "ctrl+g",
+    "command": "-workbench.action.gotoLine"
+  }
+]
