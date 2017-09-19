@@ -1,0 +1,29 @@
+VISUAL STUDIO CODE SETTINGS SYNC
+Version: 2.8.2
+
+Download Summary
+
+--------------------
+GITHUB TOKEN: ba49ff5dac050bffbbba60f0be178baf47024722
+GITHUB GIST: b38404548ba2a5bd17f18fefade9b643
+GITHUB GIST TYPE: Secret
+
+--------------------
+
+If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
+
+
+Files Download.
+
+extensions.json
+keybindings.json
+settings.json
+
+EXTENSIONS REMOVED :
+
+No Extension needs to be removed.
+
+
+EXTENSIONS ADDED :
+
+beautify - Version :1.1.1
