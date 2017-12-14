@@ -85,5 +85,10 @@
     "editor.formatOnPaste": false,
   },
   "sync.askGistName": false,
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "sublimeTextKeymap.promptV3Features": true,
+  "workbench.panel.location": "bottom",
+  "[scss]": {
+    "editor.formatOnPaste": false
+  }
 }
